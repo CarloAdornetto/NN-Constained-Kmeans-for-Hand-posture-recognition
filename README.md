@@ -9,4 +9,4 @@ Datasets source & Data desccription at : http://www2.latech.edu/~jkanno/collabor
 - An algorithm to execute a Constrained Kmeans algorithm on the *Postures* dataset 
     - **Matlab**
     
-You can find a detailed report about implemented methods in this repository : 
+You can find a detailed report about implemented methods in this repository : *"Datasets for Motion-Capture-Based Hand.pptx"*
