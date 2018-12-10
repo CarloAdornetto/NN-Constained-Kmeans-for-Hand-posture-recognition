@@ -3,10 +3,10 @@ With the aim of studying machine learning algorithms!
 
 Datasets source & Data desccription at : http://www2.latech.edu/~jkanno/collaborative.htm
 
-In this repository:
-    - A Neural Network to solve the classification problem for the Labeled Marker dataset
-        Tensorflow-Keras on Jupyter Notebook
-    - A Matlab algorithm to execute a Constrained Kmeans algorithm on the Posture dataset
+> ## In this repository:
+- A Neural Network modeling to solve the classification problem for the *Labeled Markers* dataset 
+    - **Tensorflow-Keras on Jupyter Notebook** 
+- An algorithm to execute a Constrained Kmeans algorithm on the *Postures* dataset 
+    - **Matlab**
     
-    
-You can find a detailed report about used methods in this repository : 
+You can find a detailed report about implemented methods in this repository : 
