@@ -1,4 +1,4 @@
-# NN-Constained-Kmeans-for-Hand-posture-recognition
+# NN-&-Constained-Kmeans-for-Hand-posture-recognition
 With the aim of studying machine learning algorithms!
 
 Datasets source & Data desccription at : http://www2.latech.edu/~jkanno/collaborative.htm
